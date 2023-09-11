@@ -1,0 +1,68 @@
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    color: #2a264a;
+    background-color: aliceblue;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+    margin: 0;
+}
+
+header {
+    color: white;
+    background-color: darkblue;
+    margin: 10px;
+    padding: 100px;
+    border-color: #749ed3;
+    border-style: solid;
+    border-radius: 64px;
+}
+
+.gaga3 {
+    margin-left: 550px;
+}
+
+.gaga {
+    margin-left: 500px;
+}
+
+.gaga2 {
+    margin-left: 610px;
+}
+
+nav {
+    margin-left: 800px;
+}
+
+h1 {
+    font-size: 55px;
+}
+
+main {
+    max-width: 1000px;
+    margin: auto;
+}
+
+h2 {
+    color: black;
+}
+
+b, i, del {
+    background-color: aquamarine;
+}
+
+a {
+    color: brown;
+}
+
+a:hover {
+    color: brown;
+}
+
+#structure {
+    background-color: bisque;
+    box-shadow: 50px 50px 50px black;
+}
+
